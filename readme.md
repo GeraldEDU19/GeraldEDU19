@@ -15,7 +15,7 @@
 <h1 align="center">
   Gerald Chaves Gómez
   <br>
-  <a href="https://geraldedu19.com" target="_blank">
+  <a href="https://geraldedu19.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-DC143C?style=for-the-badge&logo=briefcase&logoColor=white" width="200" alt="Portfolio" />
   </a>
 </h1>
