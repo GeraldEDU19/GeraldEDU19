@@ -71,11 +71,12 @@ Backend developer with 3+ years experience building scalable applications with N
 
 <p align="center">
   <a href="https://github.com/GeraldEDU19">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeraldEDU19&theme=radical&border=7F3FBF&background=0D1117" alt="Gerald's GitHub streak"/>
+    <img alt="Gerald's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GeraldEDU19&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="500px"/>
   </a>
 </p>
 
-<a> 
-  <a href="https://github.com/GeraldEDU19"><img alt="Gerald's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GeraldEDU19&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/GeraldEDU19"><img alt="Gerald's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GeraldEDU19&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-</a>
+<p align="center">
+  <a href="https://github.com/GeraldEDU19">
+    <img alt="Gerald's Total Lines of Code" src="https://github-readme-stats.vercel.app/api/wakatime?username=GeraldEDU19&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&layout=compact" width="500px"/>
+  </a>
+</p>
