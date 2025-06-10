@@ -31,12 +31,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
-<!-- GitHub Profile Trophy -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GeraldEDU19&theme=onedark&row=1&column=6" alt="Gerald's Trophies"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gerald-chaves/" target="_blank">
