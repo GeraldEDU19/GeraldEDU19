@@ -24,11 +24,19 @@
   <b>Full-Stack Software Developer • Costa Rica</b>
 </p>
 
+<!-- Profile Views Counter -->
 <a href="https://komarev.com/ghpvc/?username=GeraldEDU19">
   <img align="right" src="https://komarev.com/ghpvc/?username=GeraldEDU19&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
+<!-- GitHub Profile Trophy -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=GeraldEDU19&theme=onedark&row=1&column=6" alt="Gerald's Trophies"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gerald-chaves/" target="_blank">
@@ -69,14 +77,9 @@ Backend developer with 3+ years experience building scalable applications with N
 
 <hr/>
 
+<!-- Top Languages -->
 <p align="center">
   <a href="https://github.com/GeraldEDU19">
     <img alt="Gerald's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GeraldEDU19&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="500px"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/GeraldEDU19">
-    <img alt="Gerald's Total Lines of Code" src="https://github-readme-stats.vercel.app/api/wakatime?username=GeraldEDU19&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&layout=compact" width="500px"/>
   </a>
 </p>
